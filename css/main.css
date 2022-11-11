@@ -13,10 +13,12 @@ border: 1px solid #f2f2f2;
 border-radius: 50px;
 padding: 5px;
 }
+
  .user-bg {
 	padding: 10px;
 }
-.header{
+
+.header {
     width: 400px;
     height: 40px;
     background: black;
