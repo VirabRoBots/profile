@@ -25,11 +25,7 @@ padding: 5px;
 }
 
 .box-hovner {
+     padding: 40px 0 0 0;
+    background: black;
     text-align: center; 
-}
-
-.footer { 
-  padding: 40px 0 0 0;
-  background: black;
-  text-align: center;
 }
