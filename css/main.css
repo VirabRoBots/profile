@@ -19,13 +19,13 @@ padding: 5px;
 }
 
 .header {
-    width: 400px;
-    height: 40px;
     padding: 40px 0 0 0;
     background: black;
     text-align: center;
 }
 
-.box-hovner {
+.iconlink {
+    background: white;
+    display: block; 
     text-align: center; 
 }
