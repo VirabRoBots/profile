@@ -19,13 +19,11 @@ padding: 5px;
 }
 
 .header {
-    padding: 40px 0 0 0;
     background: black;
     text-align: center;
 }
 
 .iconlink {
     background: white;
-    display: block; 
     text-align: center; 
 }
