@@ -23,11 +23,11 @@ padding: 5px;
     height: 40px;
     text-align: center;
 }
-.box-hovner {
+box-hovner {
     text-align: center; 
 }
-footer{ 
+footer { 
   padding: 40px 0 0 0;
-  background: #444;
-  text-align: left;
+  background: black;
+  text-align: center;
 }
