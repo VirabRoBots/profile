@@ -26,9 +26,7 @@
   100% {
     left: -400%;
   }
-}
-body {
-  margin: 0;
+
 }
 div#slider {
   overflow: hidden;
@@ -47,9 +45,6 @@ div#slider figure {
   text-align: left;
   font-size: 0;
   animation: 30s slidy infinite;
-}
-body{ 
-	font-size: 14px !important;
 }
 .avatar {
 	padding-top: 10px;
