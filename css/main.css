@@ -48,8 +48,7 @@ div#slider figure {
   font-size: 0;
   animation: 30s slidy infinite;
 }
-body {
-	
+body{ 
 	font-size: 14px !important;
 }
 .avatar {
@@ -90,5 +89,4 @@ padding: 5px;
 body {
   text-align: center;
   font-variant: small-caps;
-  padding-top:em;
 }
